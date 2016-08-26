@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LightSensor</string>
+    <string name="Source">Source</string>
+    <string name="Inout">Indoor/Outdoor</string>
+
+    <string-array name="INOUT">
+        <item>Indoor</item>
+        <item>Outdoor</item>
+    </string-array>
+    <string-array name="source">
+        <item>Direct </item>
+        <item>Opposite</item>
+    </string-array>
+
+
+
+</resources>
